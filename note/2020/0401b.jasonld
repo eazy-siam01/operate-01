@@ -1,0 +1,12 @@
+{
+    "@id": "http://store.example.com/products/links-speedy-lube",
+    "@type": "Product",
+    "name": "Links Speedy Lube",
+    "description": "Lubricant for your chain links.",
+    "category": [
+        "http://store.example.com/categories/lubes",
+        "http://store.example.com/categories/chains"
+    ],
+    "price": "5.00",
+    "stock": 20
+}
