@@ -11,5 +11,3 @@
 - การเพิ่มรูป ในเว็บไชต์
 - การเพิ่มข้อความ ในเว็บไชต์
 
-- [รูปที่ 1](https://portcitydaily.com/wp-content/uploads/COVID19.jpg)
-- ![รูปที่ 2](https://portcitydaily.com/wp-content/uploads/COVID19.jpg)
